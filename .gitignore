@@ -1,0 +1,15 @@
+# OS files
+.DS_Store
+Thumbs.db
+*~
+*.swp
+*.swo
+
+# IDE files
+.idea/
+.vscode/
+*.code-workspace
+
+# Test outputs
+test_project/
+my_*_plugin/
